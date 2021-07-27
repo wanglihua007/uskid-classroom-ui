@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "dumi-template",
+  "name": "uskid-classroom-ui",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
@@ -19,9 +19,10 @@
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
+  "homepage": "https://wanglihua007.github.io/uskid-classroom-ui/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/dumi-template",
+    "url": "https://github.com/wanglihua007/uskid-classroom-ui",
     "branch": "main"
   },
   "lint-staged": {
